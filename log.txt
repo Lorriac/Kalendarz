@@ -1,0 +1,72 @@
+commit 6dbdee8befc5fe752282d4ac885de37e2b5d5500
+Author: Juliusz Jakubiec <56698842+Lorriac@users.noreply.github.com>
+Date:   Sun Dec 8 11:30:23 2019 +0100
+
+    Finalny css do kalendarza
+
+commit fd884a1176d724367dfb645a0435257f070b06fa
+Author: Mariusz Granda <smokepenguin@protonmail.com>
+Date:   Sun Dec 8 11:29:03 2019 +0100
+
+    dodaje wlasciwe strony z kalendarzem i zdarzeniami
+
+commit 6ac7282d8d103106d5646633bc9fe438daad828e
+Author: Juliusz Jakubiec <56698842+Lorriac@users.noreply.github.com>
+Date:   Sun Dec 8 11:25:37 2019 +0100
+
+    Dodaje generowanie html kalentarza
+
+commit 710e410b5389684503e62c26f5bbac9e4f7f25b2
+Author: Mariusz Granda <smokepenguin@protonmail.com>
+Date:   Sun Dec 8 11:24:39 2019 +0100
+
+    dodaje widoki na stronie
+
+commit c6ffa89dc5c1f32c16ee12f0ce6c8c77e9f3d3a8
+Author: Juliusz Jakubiec <56698842+Lorriac@users.noreply.github.com>
+Date:   Sun Dec 8 11:21:58 2019 +0100
+
+    Dodaje odnośniki do kalendarza i admina
+
+commit 8f438d2f6b842fb9920424986c1aef1c4c8b7849
+Author: Mariusz Granda <smokepenguin@protonmail.com>
+Date:   Sun Dec 8 11:18:52 2019 +0100
+
+    dodaje formularz do kalendarza
+
+commit 2d75d60d20674279daae74a4e373f11a9cdc3c14
+Author: Juliusz Jakubiec <56698842+Lorriac@users.noreply.github.com>
+Date:   Sun Dec 8 11:16:17 2019 +0100
+
+    dodałem modele django
+
+commit 1d81a5931cdc9e3f719d0000bd0eea5abcaf80cd
+Author: Mariusz Granda <smokepenguin@protonmail.com>
+Date:   Sun Dec 8 11:14:37 2019 +0100
+
+    inicjalizacja zdarzenia kalendarza i admina
+
+commit c48bdbb377a5e0b631b21f6c75f9797a45df06dd
+Merge: ec77f50 2196403
+Author: Juliusz Jakubiec <56698842+Lorriac@users.noreply.github.com>
+Date:   Sun Dec 8 11:10:45 2019 +0100
+
+    Merge branch 'master' of https://github.com/Lorriac/Kalendarz
+
+commit ec77f50324b1d1eff0973cef21eefa3cad8fd6ce
+Author: Juliusz Jakubiec <56698842+Lorriac@users.noreply.github.com>
+Date:   Sun Dec 8 11:06:09 2019 +0100
+
+    dodaje odnośniki django
+
+commit 2196403590de69e4b894a7d1463b9597ffecca2e
+Author: Mariusz Granda <smokepenguin@protonmail.com>
+Date:   Sun Dec 8 11:03:11 2019 +0100
+
+    pierwszy commit: inicjalizacja django
+
+commit 75def855b70c12744ffc8f05bdddd70bb1124bf7
+Author: Lorriac <56698842+Lorriac@users.noreply.github.com>
+Date:   Sun Dec 8 10:50:19 2019 +0100
+
+    Initial commit
